@@ -23,33 +23,33 @@ class Config(object):
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/cyniteofficial'>Cynite</a></b>
+👨‍💻 Used In: <a href='https://t.me/blackest_harbour'>JOIN</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/cyniteofficial'>Click Me</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/sigma_male_007>Click Me</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
 
     HOME_TEXT = """
-<b>Hey! {}😅,
+<b>Hey! Dear{}😀,
 
 I'm Mdisk Search Robot.🤖</a>
 
-I Can Search 🔍 What You Want❗
+I Can Search Anything 🔍 What Do You Want❗
 
-<a>Made With ❤ By @Cyniteofficial</a></b>
+<a> Request Group @blaclest_harbour </a></b>
 """
 
 
     START_MSG = """
-<b>Hey! {}😅,
+<b>I am Started! Dear{}🙂,
 
-I'm Mdisk Search Robot.🤖</a>
 
-I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @Cyniteofficial</a></b>
+ Search Movies Series Shows 🔍 What You Want❗
+
+<a>With ❤</a></b>
 """
 
 
