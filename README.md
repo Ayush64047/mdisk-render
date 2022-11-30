@@ -7,11 +7,13 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Cyniteofficial/MdiskSearchBot">
+<a href="https://cyclic.sh/deploy?template=https://github.com/Cyniteofficial/MdiskSearchBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
+
+https://app.cyclic.sh/api/app/deploy/cyclic-software/express-hello-world
 
 <details>
   <summary><b>Deploy to Railway</b></summary>
