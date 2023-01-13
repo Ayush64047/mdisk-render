@@ -15,41 +15,41 @@ class Config(object):
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
     ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
 
-🤖 My Name: <a href='https://t.me/cyniteofficial'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/MdiskLinkSearchBot'>Mdisk Search Robot</a>
 
 📝 Language : <a href='https://www.python.org'> Python V3</a>
 
 📚 Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
 
-📡 Server: <a href='https://heroku.com'>Heroku</a>
+📡 Server: <a href='https://heroku.com'>VPS</a>
 
-👨‍💻 Used In: <a href='https://t.me/blackest_harbour'>JOIN</a></b>
+👨‍💻 Used In: <a href='https://t.me/blackest_harbour'> GROUP </a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/sigma_male_007>Click Me</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : @sigma_male_007
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
 
     HOME_TEXT = """
-<b>Hey! Dear{}😀,
 
-I'm Mdisk Search Robot.🤖</a>
+<b>Hello! Dear{}☺️,
+
+I'm Mdisk Search Robot🤖</a>
 
 I Can Search Anything 🔍 What Do You Want❗
 
-<a> Request Group @blaclest_harbour </a></b>
+<a> Request Anything 👉 @blackest_harbour </a></b>
 """
 
 
     START_MSG = """
-<b>I am Started! Dear{}🙂,
 
+<b> I am Started! Dear{} 🥳
 
+ Search Movies Series Shows {} 🔍 
 
- Search Movies Series Shows 🔍 What You Want❗
-
-<a>With ❤</a></b>
+<a>Send Me Any Movie Series Names🤡 </a></b>
 """
 
 
