@@ -32,7 +32,13 @@ If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
 
     HOME_TEXT = """
+<b> I am Started! Dear {} 🥳
+ My Alternate @Mdisk_Links_Sender_Bot
+ Search Movies Series Shows {} 🔍 
+<a>Send Me Any Movie Series Names🤡 </a></b>
+"""
 
+    START_MSG = """
 <b>Hello! Dear{}☺️,
 
 I'm Mdisk Search Robot🤖</a>
@@ -42,14 +48,5 @@ I Can Search Anything 🔍 What Do You Want❗
 <a> Request Anything 👉 @blackest_harbour </a></b>
 """
 
-
-    START_MSG = """
-
-<b> I am Started! Dear{} 🥳
-
- Search Movies Series Shows {} 🔍 
-
-<a>Send Me Any Movie Series Names🤡 </a></b>
-"""
 
 
