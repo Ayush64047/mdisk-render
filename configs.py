@@ -39,9 +39,9 @@ class Config(object):
     START_MSG = """
 <b>Hello! Dear{}☺️,
 
-I'm Mdisk Search Robot🤖</a>
+I m Mdisk Search Robot🤖</a>
 
-I Can Search Anything 🔍 What Do You Want {}😳
+I Can Search Anything 🔍 What Do u Want
 
 <a> Request Here If Ur Query Not Found 👉 @blackest_harbour </a></b>
 """
