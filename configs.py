@@ -26,25 +26,30 @@ class Config(object):
 🤖Used In: <a href='https://t.me/blackest_harbour'> GROUP </a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b> Bot ko query smj ana chayeye agar result nhi mila toh search in group @blackest_harbour  </b>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/sigma_male_007'>Click Me</a>
+
+If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
 
     HOME_TEXT = """
-<b> We Are Home {} 🥳
- My Alternate @Mdisk_Links_Sender_Bot
- Search Movies Series Shows {} 🔍 
-<a>Send Me Any Movie Series Names🤡 </a></b>
+<b>Hey! {}😅,
+
+Just Drop Any Movie-Series Name's 🤖</a>
+
+I Can Search ur Queries🔍 What do u Want❗
+
+<a>Made With by ❤ </a></b>
 """
+
 
     START_MSG = """
-<b>Hello! Dear{}☺️,
+<b>Hello👋! Dear{}🤩,
 
-I m Mdisk Search Robot🤖</a>
+I'm Mdisk Search Robot.🤖</a>
 
-I Can Search Anything 🔍 What Do u Want
+I Can Search Movies-Series 🔍
 
-<a> Request Here If Ur Query Not Found 👉 @blackest_harbour </a></b>
+<a>Search In Groups If Query Is Not Found </a></b>
 """
-
 
 
