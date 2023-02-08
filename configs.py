@@ -26,8 +26,7 @@ class Config(object):
 🤖Used In: <a href='https://t.me/blackest_harbour'> GROUP </a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>Group Pe V Kabhi Search Dal Diya Kro 4-4 bots aise hi lagaye hwe hai 😌
-👉 @blackest_harbour </b>
+    ABOUT_HELP_TEXT = """<b> Bot ko query smj ana chayeye agar result nhi mila toh search in group @blackest_harbour  </b>
 """
 
     HOME_TEXT = """
