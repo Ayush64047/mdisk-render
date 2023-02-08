@@ -21,18 +21,17 @@ class Config(object):
 
 📚 Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
 
-📡 Server: <a href='https://heroku.com'>VPS</a>
+📡 Server: <a href='https://heroku.com'>FREE</a>
 
-👨‍💻 Used In: <a href='https://t.me/blackest_harbour'> GROUP </a></b>
+🤖Used In: <a href='https://t.me/blackest_harbour'> GROUP </a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : @sigma_male_007
-
-If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
+    ABOUT_HELP_TEXT = """<b>Group Pe V Kabhi Search Dal Diya Kro 4-4 bots aise hi lagaye hwe hai 😌
+👉 @blackest_harbour </b>
 """
 
     HOME_TEXT = """
-<b> I am Started! Dear {} 🥳
+<b> We Are Home {} 🥳
  My Alternate @Mdisk_Links_Sender_Bot
  Search Movies Series Shows {} 🔍 
 <a>Send Me Any Movie Series Names🤡 </a></b>
@@ -43,9 +42,9 @@ If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 
 I'm Mdisk Search Robot🤖</a>
 
-I Can Search Anything 🔍 What Do You Want❗
+I Can Search Anything 🔍 What Do You Want {}😳
 
-<a> Request Anything 👉 @blackest_harbour </a></b>
+<a> Request Here If Ur Query Not Found 👉 @blackest_harbour </a></b>
 """
 
 
