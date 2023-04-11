@@ -29,7 +29,7 @@ async def start_handler(_, event: Message):
                                 caption=Config.START_MSG.format(event.from_user.mention),
                                 reply_markup=InlineKeyboardMarkup([
                                     [InlineKeyboardButton("Our Channel", url="https://t.me/z_harbour"),
-                                     InlineKeyboardButton("Creator", url="https://t.me/sigma_male_007")],
+                                     InlineKeyboardButton("Developer", url="https://t.me/sigma_male_007")],
                                     [InlineKeyboardButton("Help", callback_data="Help_msg"),
                                      InlineKeyboardButton("About", callback_data="About_msg")]]))
 
@@ -78,10 +78,10 @@ async def button(bot, cmd: CallbackQuery):
 				[
 					[
 						InlineKeyboardButton("Our Channel", url="https://t.me/z_harbour"),
-						InlineKeyboardButton("Join", url="https://t.me/blackest_harbour")
+						InlineKeyboardButton("24×7 Movies", url="https://t.me/blackest_harbour")
 					],
 					[
-						InlineKeyboardButton("Creator", url="https://t.me/z_harbour"),
+						InlineKeyboardButton("24×7 Series", url="https://t.me/z_harbour_files"),
 						InlineKeyboardButton("Home", callback_data="gohome")
 					]
 				]
@@ -99,7 +99,7 @@ async def button(bot, cmd: CallbackQuery):
 						InlineKeyboardButton("Our Channel", url="https://t.me/z_harbour")
 					], 
                                         [
-						InlineKeyboardButton("Owner", url="https://t.me/z_harbour"),
+						InlineKeyboardButton("500k Database", url="https://t.me/MdiskLinkSearchBot"),
 						InlineKeyboardButton("Home", callback_data="gohome")
 					]
 				]
@@ -118,7 +118,7 @@ async def button(bot, cmd: CallbackQuery):
 					],
 					[
 						InlineKeyboardButton("Support", url="https://t.me/z_harbour"),
-						InlineKeyboardButton("Channel", url="https://t.me/z_harbour")
+						InlineKeyboardButton("Bots List", url="https://t.me/mdisk_bots")
 					]
 				]
 			),
