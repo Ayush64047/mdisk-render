@@ -1,6 +1,6 @@
 echo "Cloning Repo...."
-git clone https://github.com/RoyalKrrishna/MdiskWalaBot.git /MdiskWalaBot
-cd /MdiskWalaBot
+git clone https://github.com/Ayush64047/mdisk-render.git /mdisk-render
+cd /mdisk-render
 pip3 install -r requirements.txt
 echo "Starting Bot...."
-python3 main.py
+gunicorn app:app & python3 main.py
